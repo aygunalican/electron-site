@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "Ağıllı Qulaqlıqlar",
+    "description": "Qulaqlıqlar, musiqi, podkastlar, audiokitablar və digər audio məzmunu şəxsi şəkildə dinləmək üçün qulaqda və ya qulağın üzərində taxılan səs avadanlığı növüdür.",
+    "buttons": {
+      "buy": "Məhsulu Al",
+      "checkAll": "Məhsulları Yoxla"
+    }
+  },
+  "latestProducts": {
+    "title": "Ən Son Məhsullar",
+    "categories": {
+      "all": "Bütün məhsullar",
+      "laptop": "Noutbuk",
+      "mobile": "Mobil",
+      "tv": "Televizor",
+      "gaming": "Oyun"
+    },
+    "inStock": "STOKDA VAR",
+    "addToCart": "Səbətə əlavə et"
+  }
+  ,
+  "header": {
+    "topMessage": "Noyabr ayına xüsusi bütün məhsullarda 30% endirim!",
+    "searchPlaceholder": "Populyar məhsullarda axtar...",
+    "callAnytime": "ZƏNG EDİN",
+    "callNumber": "280 900 3434",
+    "categories": "KATEQORİYALAR",
+    "categoryItems": {
+      "accessories": "Aksesuarlar",
+      "buds": "Qulaqlıqlar",
+      "laptop": "Noutbuk",
+      "mobile": "Mobil"
+    },
+    "navLinks": {
+      "home": "ANA SƏHİFƏLƏR",
+      "shop": "MAĞAZA",
+      "pages": "SƏHİFƏLƏR",
+      "features": "XÜSUSİYYƏTLƏR",
+      "megaMenu": "MEQAMENU"
+    }
+  },
+  "footer": {
+    "socialMedia": "Sosial Şəbəkələr",
+    "downloadApps": "TƏTBİQLƏRİ ENDİR",
+    "newsletter": "Xəbər bülleteninə abunə olun",
+    "newsletterPlaceholder": "E-mailiniz",
+    "submit": "Göndər",
+    "help": "Kömək lazım? Zəng edin!",
+    "helpNumbers": "(500) 8001 8588, (500) 544 6550",
+    "about": "Electron haqqında",
+    "quickLinks": "Tez keçidlər",
+    "policies": "Siyasətlər",
+    "brands": "Brendlər",
+    "smartPhones": "Ağıllı Telefonlar",
+    "smartTV": "Ağıllı TV",
+    "accessories": "Aksesuarlar",
+    "bestseller": "Ən çox satılanlar",
+    "footerNote": "Bütün hüquqlar qorunur."
+  },
+    "products":{
+    "button":"Əlavə et"
+  },
+
+  "productDetail": {
+    "original": "ORİJİNAL",
+    "description": "Yüksək keyfiyyətli məhsul -         gündəlik ehtiyaclarınızı qarşılamaq üçün hazırlanmışdır. Ev və ya professional istifadə üçün idealdır.",
+    "delivery": "Sürətli və etibarlı çatdırılma! 3 gün ərzində göndərilir",
+    "amount": "Miqdar",
+    "amountValue": "250 qram",
+    "addToCart": "Əlavə et",
+    "goBack": "Geri qayıt"
+  }
+
+}

@@ -1,0 +1,102 @@
+.footer {
+  background-color: #295B6B;
+  padding: 60px 40px 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 40px;
+}
+
+.footer-col h4 {
+  font-weight: 700;
+  color: white;
+    font-family: "Pixelify Sans", sans-serif;
+  margin-bottom: 15px;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: white;
+  font-family: "Inconsolata", monospace;
+}
+
+.footer-col.large {
+  grid-column: span 2;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0 20px;
+    color: white;
+  font-family: "Inconsolata", monospace;
+}
+
+.social-icons svg {
+  cursor: pointer;
+}
+
+.apps img {
+  width: 120px;
+  margin-right: 10px;
+}
+
+.newsletter {
+  display: flex;
+  margin: 10px 0 20px;
+}
+
+.newsletter input {
+  flex: 1;
+  padding: 12px;
+  border: none;
+}
+
+.newsletter button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+.help {
+  display: flex;
+  align-items: center;  color: white;
+  font-family: "Inconsolata", monospace;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.help svg {
+  background: rgb(7, 23, 94);
+  color: white;
+  padding: 14px;
+  border-radius: 50%;
+  font-size: 40px;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(0,0,0,0.2);
+  margin-top: 40px;
+  padding-top: 20px;
+    color: white;
+  font-family: "Inconsolata", monospace;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.payments img {
+  height: 30px;
+  margin-left: 10px;
+}

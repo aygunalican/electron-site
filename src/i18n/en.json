@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Smart Headphones",
+    "description": "Headphones are a type of audio equipment that are worn on or over the ears to listen to music, podcasts, audiobooks, and other forms of audio content privately.",
+    "buttons": {
+      "buy": "Buy Product",
+      "checkAll": "Check All Products"
+    }
+  },
+  "latestProducts": {
+    "title": "Latest Products",
+    "categories": {
+      "all": "All products",
+      "laptop": "Laptop",
+      "mobile": "Mobile",
+      "tv": "TV",
+      "gaming": "Gaming"
+    },
+    "inStock": "IN STOCK",
+    "addToCart": "Add to cart"
+  }
+  ,
+  "header": {
+    "topMessage": "30% discount on all products special for November!",
+    "searchPlaceholder": "Search popular products...",
+    "callAnytime": "CALL ANYTIME",
+    "callNumber": "280 900 3434",
+    "categories": "CATEGORIES",
+    "categoryItems": {
+      "accessories": "Accessories",
+      "buds": "Buds",
+      "laptop": "Laptop",
+      "mobile": "Mobile"
+    },
+    "navLinks": {
+      "home": "HOME PAGES",
+      "shop": "SHOP",
+      "pages": "PAGES",
+      "features": "FEATURES",
+      "megaMenu": "MEGAMENU"
+    }
+  },
+  "footer": {
+    "socialMedia": "Social Media",
+    "downloadApps": "DOWNLOAD APPS",
+    "newsletter": "Subscribe to the newsletter",
+    "newsletterPlaceholder": "Your E-mail",
+    "submit": "Submit",
+    "help": "Need help? Call now!",
+    "helpNumbers": "(500) 8001 8588, (500) 544 6550",
+    "about": "About Electron",
+    "quickLinks": "Quick Links",
+    "policies": "Policies",
+    "brands": "Brands",
+    "smartPhones": "Smart Phones",
+    "smartTV": "Smart TV",
+    "accessories": "Accessories",
+    "bestseller": "Bestseller",
+    "footerNote": "All right reserved. "
+  },
+  "products":{
+    "button":"Add to cart"
+  },
+   "productDetail": {
+    "original": "ORIGINAL",
+    "description": "High-quality product -  made to meet your everyday needs. Perfect for home or professional use.",
+    "delivery": "Speedy and reliable parcel delivery! Shipping within 3 days",
+    "amount": "Amount",
+    "amountValue": "250 grams",
+    "addToCart": "Add to cart",
+    "goBack": "Go back"
+  }
+}

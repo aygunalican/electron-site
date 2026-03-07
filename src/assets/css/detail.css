@@ -1,0 +1,115 @@
+.singleproduct{.single{
+    width: 100%;
+    height: 100vh;
+ 
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+
+    .image-con{
+        width: 60%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px;
+        height: 500PX;
+        background-image: url("https://i.pinimg.com/originals/64/d7/40/64d74025eeec2487cb346cd6049fbe35.gif");
+        border: 2px solid rgba(128, 128, 128, 0.103);
+        background-size: cover;
+        box-shadow: 3PX 3PX 3PX rgba(0, 0, 0, 0.664);
+        img{
+            width: 400px;
+            
+            height: 400px;
+            
+            padding: 10px;
+        }
+    }
+    .text-con{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 20px;
+        h1{
+            font-size: 47px;
+              font-family: "Pixelify Sans", sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                padding: 10px;
+        }
+        .stars{
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: row;
+            gap: 5px;
+       
+            p{
+                color: white;
+                padding: 10px;
+                border-radius: 4px;
+                background-color: #00BEEB;
+                  font-family: "Inconsolata", monospace;
+                margin-right: 20px;
+                .plant{
+                    color: white;
+                }
+            }
+        .star{
+            color:#F4C715;
+            font-size: 20px;
+         
+        }}
+       
+        p{
+            color: rgba(0, 0, 0, 0.774);
+            font-size: 17px;
+  font-family: "Inconsolata", monospace;
+                font-weight: 400;
+                font-style: normal;
+           
+            span{
+                color: #C73E43;
+                     font-style: italic;
+            }
+        }
+        h4{
+               color: #1e0347;
+  font-family: "Jersey 20", sans-serif;
+            font-size: 47px;
+                 font-weight: 600;
+                font-style: normal;
+        }
+
+        .btn{
+            background-color: #2E52B7;
+            width: 120px;
+            height: 48px;
+       text-shadow:#1e0347 2px 2px 2px ;
+            font-size: 15px;
+            color: white;
+             font-family: "Inconsolata", monospace;
+                font-weight: 500;
+                font-style: normal;
+                outline: none;
+                border: 1px solid rgba(255, 255, 255, 0.356);
+                box-shadow: 1px 3px 2px rgba(0, 0, 0, 0.692);
+           
+         
+        }
+               .lo{
+                background-color: #1e0347;
+                padding: 11px;
+                text-shadow:#00BEEB 2px 2px 2px ;
+               }
+             .alo{
+    
+                          background-color: white;
+                            color: #2E52B7;
+                                 border: 1px solid #2E52B7;
+                }
+    }
+}
+}
