@@ -16,9 +16,9 @@ const ProductDetail = () => {
   const currentLang = i18n.language;
   const { data } = useContext(ApiContext);
 
-  const product = data.find(
-    (item) => slugify(item.title[currentLang]) === slug
-  );
+const product = data.find(
+  (item) => slugify(item.title[currentLang], { lower: true }) === slug
+);
 
   if (!product) return <h1>Loading...</h1>;
 
