@@ -75,16 +75,16 @@ const [lang, setLang] = useState('en');
         </nav>
         <nav className="navbar second navbar-expand-lg ">
             <div className="container">
-        <div class="dropdown">
+        <div className="dropdown">
   <a  href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
    <HiBars3 className='alo' /> {t("header.categories")}
   </a>
  <a><MdKeyboardArrowDown className='alo' /></a>
-  <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="#">{t("header.categoryItems.accessories")}</a></li>
-    <li><a class="dropdown-item" href="#">{t("header.categoryItems.buds")}</a></li>
-    <li><a class="dropdown-item" href="#">{t("header.categoryItems.laptop")}</a></li>
-        <li><a class="dropdown-item" href="#">{t("header.categoryItems.mobile")}</a></li>
+  <ul className="dropdown-menu">
+    <li><a className="dropdown-item" href="#">{t("header.categoryItems.accessories")}</a></li>
+    <li><a className="dropdown-item" href="#">{t("header.categoryItems.buds")}</a></li>
+    <li><a className="dropdown-item" href="#">{t("header.categoryItems.laptop")}</a></li>
+        <li><a className="dropdown-item" href="#">{t("header.categoryItems.mobile")}</a></li>
   </ul>
 </div>
           <ul className="navbar-nav my-auto ms-5">
